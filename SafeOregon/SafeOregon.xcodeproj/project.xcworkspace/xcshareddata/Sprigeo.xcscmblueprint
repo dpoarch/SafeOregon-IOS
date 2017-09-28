@@ -1,0 +1,36 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "473788a2-e7f1-4732-9df0-070c27c469dd",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "473788a2-e7f1-4732-9df0-070c27c469dd" : {
+
+    },
+    "57f18cf4-932e-4d1b-b3ca-a19f78e21e60++505" : {
+      "DVTSourceControlWorkingCopyRepositoryTagsLocationKey" : "tags",
+      "DVTSourceControlWorkingCopyRepositoryPrimaryBranchLocationKey" : "trunk"
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "473788a2-e7f1-4732-9df0-070c27c469dd" : 0,
+    "57f18cf4-932e-4d1b-b3ca-a19f78e21e60++505" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "78155896-7DC0-4220-A000-E73399647935",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "473788a2-e7f1-4732-9df0-070c27c469dd" : "Safe%20Oregon\/",
+    "57f18cf4-932e-4d1b-b3ca-a19f78e21e60++505" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Sprigeo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "source\/trunk\/Sprigeo\/Sprigeo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.1.253:18080\/svn\/safe_oregon_ios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "473788a2-e7f1-4732-9df0-070c27c469dd"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.1.253:18080\/svn\/bulling_ios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "57f18cf4-932e-4d1b-b3ca-a19f78e21e60++505"
+    }
+  ]
+}

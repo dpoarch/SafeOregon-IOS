@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Incidents</key>
+	<array>
+		<string>At the bus stop</string>
+		<string>In a text message</string>
+		<string>In a email</string>
+		<string>In a instant message</string>
+		<string>In class</string>
+		<string>In front of school</string>
+		<string>In hallway</string>
+		<string>In the bathroom</string>
+		<string>In the cafeteria</string>
+		<string>In the gym</string>
+		<string>In the locker room</string>
+		<string>In the parking lot</string>
+		<string>Off School Grounds</string>
+		<string>On a voicemail</string>
+		<string>On Facebook</string>
+		<string>On MySpace</string>
+		<string>On the bus</string>
+		<string>On the field</string>
+		<string>On Youtube</string>
+		<string>Twitter</string>
+		<string>Other</string>
+	</array>
+</dict>
+</plist>

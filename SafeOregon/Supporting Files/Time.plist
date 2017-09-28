@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Time</key>
+	<array>
+		<dict>
+			<key>Time</key>
+			<string>05:00 AM</string>
+			<key>Value</key>
+			<string>0500</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>05:30 AM</string>
+			<key>Value</key>
+			<string>0530</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>06:00 AM</string>
+			<key>Value</key>
+			<string>0600</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>06:30 AM</string>
+			<key>Value</key>
+			<string>0630</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>07:00 AM</string>
+			<key>Value</key>
+			<string>0700</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>07:30 AM</string>
+			<key>Value</key>
+			<string>0730</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>08:00 AM</string>
+			<key>Value</key>
+			<string>0800</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>08:30 AM</string>
+			<key>Value</key>
+			<string>0830</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>09:00 AM</string>
+			<key>Value</key>
+			<string>0900</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>09:30 AM</string>
+			<key>Value</key>
+			<string>0930</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>10:00 AM</string>
+			<key>Value</key>
+			<string>1000</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>10:30 AM</string>
+			<key>Value</key>
+			<string>1030</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>11:00 AM</string>
+			<key>Value</key>
+			<string>1100</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>11:30 AM</string>
+			<key>Value</key>
+			<string>1130</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>12:00 PM</string>
+			<key>Value</key>
+			<string>1200</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>12:30 PM</string>
+			<key>Value</key>
+			<string>1230</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>01:00 PM</string>
+			<key>Value</key>
+			<string>1300</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>01:30 PM</string>
+			<key>Value</key>
+			<string>1330</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>02:00 PM</string>
+			<key>Value</key>
+			<string>1400</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>02:30 PM</string>
+			<key>Value</key>
+			<string>1430</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>03:00 PM</string>
+			<key>Value</key>
+			<string>1500</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>03:30 PM</string>
+			<key>Value</key>
+			<string>1530</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>04:00 PM</string>
+			<key>Value</key>
+			<string>1600</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>04:30 PM</string>
+			<key>Value</key>
+			<string>1630</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>05:00 PM</string>
+			<key>Value</key>
+			<string>1700</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>05:30 PM</string>
+			<key>Value</key>
+			<string>1730</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>06:00 PM</string>
+			<key>Value</key>
+			<string>1800</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>06:30 PM</string>
+			<key>Value</key>
+			<string>1830</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>07:00 PM</string>
+			<key>Value</key>
+			<string>1900</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>07:30 PM</string>
+			<key>Value</key>
+			<string>1930</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>08:00 PM</string>
+			<key>Value</key>
+			<string>2000</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>08:30 PM</string>
+			<key>Value</key>
+			<string>2030</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>09:00 PM</string>
+			<key>Value</key>
+			<string>2100</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>09:30 PM</string>
+			<key>Value</key>
+			<string>2130</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>10:00 PM</string>
+			<key>Value</key>
+			<string>2200</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>10:30 PM</string>
+			<key>Value</key>
+			<string>2230</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>11:00 PM</string>
+			<key>Value</key>
+			<string>2300</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>11:30 PM</string>
+			<key>Value</key>
+			<string>2330</string>
+		</dict>
+        <dict>
+			<key>Time</key>
+			<string>12:00 AM</string>
+			<key>Value</key>
+			<string>0000</string>
+		</dict>
+        <dict>
+			<key>Time</key>
+			<string>12:30 AM</string>
+			<key>Value</key>
+			<string>0030</string>
+		</dict>
+        <dict>
+			<key>Time</key>
+			<string>01:00 AM</string>
+			<key>Value</key>
+			<string>0100</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>01:30 AM</string>
+			<key>Value</key>
+			<string>0130</string>
+		</dict>
+        <dict>
+			<key>Time</key>
+			<string>02:00 AM</string>
+			<key>Value</key>
+			<string>0200</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>02:30 AM</string>
+			<key>Value</key>
+			<string>0230</string>
+		</dict>
+        <dict>
+			<key>Time</key>
+			<string>03:00 AM</string>
+			<key>Value</key>
+			<string>0300</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>03:30 AM</string>
+			<key>Value</key>
+			<string>0330</string>
+		</dict>
+        <dict>
+			<key>Time</key>
+			<string>04:00 AM</string>
+			<key>Value</key>
+			<string>0400</string>
+		</dict>
+		<dict>
+			<key>Time</key>
+			<string>04:30 AM</string>
+			<key>Value</key>
+			<string>0430</string>
+		</dict>
+	</array>
+</dict>
+</plist>
